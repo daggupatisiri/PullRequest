@@ -1,4 +1,4 @@
-Pull request & Merge Master Branch Example
+Create PullRequest & Merge Master Branch Example
 ===========================================
 
 Welcome to New Pull Request...............
